@@ -1,6 +1,6 @@
 - ^_____^ Hello, I’m @sitoulawson
 - 👀 I’m interested in robotics, physics, all type of engineering
-- 🌱 I’m currently learning mechanics, electronics and softwar developement
+- 🌱 I’m currently learning mechanics, electronics and fundamental physics
 - 💞️ I’m looking to collaborate on all project i judge interesting 
 - 📫 How to reach me :sitoulawson6gmail.com
 - 😄 Pronouns: He👀
